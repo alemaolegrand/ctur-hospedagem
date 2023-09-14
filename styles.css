@@ -106,3 +106,8 @@ nav {
     background-size:cover;
     background-image: url(https://ogimg.infoglobo.com.br/in/25100975-eca-0b7/FT1500A/690/85981790_SC-EXCLUSIVO-Rio-de-Janeiro-RJ-03-12-2019-Biblioteca-NacionalEnsaio-feito-em-setembr.jpg);
 }
+
+.names {
+    font-size: 9px;
+    color: #505050;
+}
